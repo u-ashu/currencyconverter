@@ -22,7 +22,7 @@ def convert_currency(amount, from_currency, to_currency):
         print(f"An error occurred: {e}")
 
 # Example usage
-print("🌐 Currency Converter")
+print(" Currency Converter")
 amount = float(input("Enter amount to convert: "))
 from_curr = input("From Currency (e.g., USD): ")
 to_curr = input("To Currency (e.g., INR): ")
